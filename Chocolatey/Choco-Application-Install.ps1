@@ -1,4 +1,4 @@
-choco install 7zip.install adobereader jre8 flashplayeractivex firefox adobeair citrix-receiver dotnet4.7.1 ie11 -y
+choco install 7zip.install adobereader jre8 flashplayeractivex firefox adobeair citrix-receiver dotnet4.7.1 -y
 
 
 
